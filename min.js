@@ -1,2 +1,2 @@
-import {nama} from "script.js";
+import {nama} from "/script.js";
 alert(nama)
